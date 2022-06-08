@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: MyInventoryApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: shiva
+Implementation-Vendor-Id: com.java.quest.miniproject
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://spring.io/projects/spring-boot/MyInventory
+ App
+Created-By: Maven Integration for Eclipse
+
